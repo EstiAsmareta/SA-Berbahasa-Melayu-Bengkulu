@@ -24,5 +24,5 @@ st.markdown("""
 st.divider()
 
 # Bagian Syarat dan Ketentuan
-st.header("Syarat dan Ketentuan")
+#st.header("Syarat dan Ketentuan")
 st.write("Informasi Lebih lanjut: **asmaretaayu@gmail.com**")
