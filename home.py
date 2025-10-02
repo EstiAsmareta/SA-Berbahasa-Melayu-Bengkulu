@@ -9,7 +9,7 @@ st.set_page_config(
 # --- Tombol Navigasi Manual Book (di atas) ---
 # st.switch_page digunakan untuk navigasi antar halaman di Streamlit
 if st.button("📚 Manual Book / Tentang Aplikasi", type="secondary"):
-    st.switch_page("manual.py") 
+    st.switch_page("pages/manual.py") 
     
 st.markdown("---")
 
